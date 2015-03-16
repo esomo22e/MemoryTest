@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<memoryGame>
+
+	<cardImages>
+	
+			<card title = "Burger" image = "burger.png" id = "0"/>
+			<card title = "Cake" image = "cake.png" id = "1" />
+			<card title = "Chicken" image = "chicken.png" id = "2"/>
+			<card title = "Coffee" image = "coffee.png" id = "3"/>
+			<card title = "Coke" image = "coke.png" id = "4"/>
+			 
+			<card title = "Flan" image = "flan.png" id = "5"/>
+			<card title = "Fries" image = "fries.png" id = "6"/>
+			<card title = "Fruit" image = "fruit.png" id = "7"/>
+			<card title = "Green Beans" image = "green-beans.png" id = "8"/>
+			<card title = "Ice Cream" image = "icecream.png" id = "9"/>
+			
+			<card title = "Milk" image = "milk.png" id = "10"/>
+			<card title = "OJ" image = "oj.png" id = "11"/>
+			<card title = "Pie" image = "pie.png" id = "12"/>
+			<card title = "Pizza" image = "pizza.png" id = "13"/>
+			<card title = "Salad" image = "salad.png" id = "14"/>
+			<card title = "Steak" image = "steak.png" id = "15"/>
+			
+	</cardImages>
+	
+	<matchMessage>
+	
+		<cardMessage english = "MATCH" turkish = "MAÇ" id = "1"/>
+		<cardMessage english = "DON'T MATCH" turkish = "Eşleşmiyor" id = "2"/>
+		<cardMessage english = "Number of Moves: " turksih = "Moves Sayısı: " id = "3"/>
+	</matchMessage>
+	
+</memoryGame>
